@@ -1,3 +1,12 @@
+## LAB - Class 34
+## Project: Putting it All Together
+## Author: Firas Awadallah
+## Links and Resources
+### DATABASE_URL - URL to the running Postgres instance/db
+* https://api.elephantsql.com/console/b8c18fe3-a9d9-4e1a-bef6-ab30c93a2f78/browser?
+## How to initialize/run your application (where applicable)
+* docker-compose up
+
 # api-quick-start
 
 Template Project for starting up CRUD API with Django Rest Framework
